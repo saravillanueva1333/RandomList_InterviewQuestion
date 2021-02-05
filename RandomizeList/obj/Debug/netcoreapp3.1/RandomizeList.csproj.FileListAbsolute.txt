@@ -1,0 +1,12 @@
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/obj/Debug/netcoreapp3.1/RandomizeList.csprojAssemblyReference.cache
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/obj/Debug/netcoreapp3.1/RandomizeList.AssemblyInfoInputs.cache
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/obj/Debug/netcoreapp3.1/RandomizeList.AssemblyInfo.cs
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/obj/Debug/netcoreapp3.1/RandomizeList.csproj.CoreCompileInputs.cache
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/bin/Debug/netcoreapp3.1/RandomizeList.deps.json
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/bin/Debug/netcoreapp3.1/RandomizeList.runtimeconfig.json
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/bin/Debug/netcoreapp3.1/RandomizeList.runtimeconfig.dev.json
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/bin/Debug/netcoreapp3.1/RandomizeList.dll
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/bin/Debug/netcoreapp3.1/RandomizeList.pdb
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/obj/Debug/netcoreapp3.1/RandomizeList.dll
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/obj/Debug/netcoreapp3.1/RandomizeList.pdb
+/Users/Sara/Projects/RandomizeListProject/RandomizeList/obj/Debug/netcoreapp3.1/RandomizeList.genruntimeconfig.cache
