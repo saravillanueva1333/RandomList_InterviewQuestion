@@ -15,8 +15,8 @@ namespace RandomizeListNS
         public static List<int> MakeRandomList(int userInput)
         {
             //Throw exception if input is negative
-            if (userInput < 0)
-                throw new ArgumentException("Input must be positive");
+            if (userInput < 1)
+                throw new ArgumentException("Input must be positive and greater than 1");
 
             //Build List of unique integers
             List<int> list = new List<int>();
